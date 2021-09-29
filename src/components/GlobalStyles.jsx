@@ -14,6 +14,7 @@ return (<div>
           font-family: 'Billabong', sans-serif;
           font-size:60px;
         }
+        
     `}/>
   </div>
 )};
