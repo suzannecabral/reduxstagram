@@ -13,10 +13,8 @@ const GlobalStyles = (props) => {
       <Global
         styles={css`
           @import url("http://fonts.cdnfonts.com/css/billabong");
-          h1 {
-            color: hotpink;
-            font-family: "Billabong", sans-serif;
-            font-size: 60px;
+          body {
+            font-family: "Roboto", sans-serif;
           }
         `}
       />
